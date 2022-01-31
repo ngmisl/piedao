@@ -3,7 +3,7 @@
 [Sheets.new](https://sheets.new)
 
 2. Activate [API Connector](https://workspace.google.com/marketplace/app/api_connector/95804724197)
-3. Upgrade Premium ($144 Annually)
+3. Upgrade Premium ($144 Annually) - can be tested 14 days trial for free
 4. Enable API Connector
    
 ### Settings

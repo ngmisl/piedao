@@ -13,11 +13,15 @@
 
 API URL = https://openapi.debank.com/v1/user/token_list?id=0x3bCF3Db69897125Aa61496Fc8a8B55A5e3f245d5&is_all=true
 
-Destination sheet = Set Current
+* Destination sheet = Set Current
 
-Output Options = append
+* Output Options = append
 
-Run & Save
+* Click `More Options`
+
+![](https://user-images.githubusercontent.com/98217124/151761832-eed6badb-a693-44dc-b9dc-ae675147dddf.png)
+
+* Mark `Add timestamp` and `Each Row`
 
 ### Schedule
 

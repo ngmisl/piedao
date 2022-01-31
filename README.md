@@ -1,1 +1,1 @@
-# Not Gonna Make It SL 🤝 PieDAO
+# NGMI SL 🤝 PieDAO

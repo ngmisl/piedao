@@ -1,6 +1,6 @@
 1. Create Google Sheets
 
-![Sheets.new](https://sheets.new)
+[Sheets.new](https://sheets.new)
 
 2. Activate [API Connector](https://workspace.google.com/marketplace/app/api_connector/95804724197)
 3. Upgrade Premium ($144 Annually)

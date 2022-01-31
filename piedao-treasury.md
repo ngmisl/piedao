@@ -1,10 +1,11 @@
 1. Create Google Sheets
 
-[Sheets.new](https://sheets.new)
+[Sheets.new](https://sheets.new){:target="_blank"}
 
-2. Activate [API Connector](https://workspace.google.com/marketplace/app/api_connector/95804724197)
+2. Activate [API Connector](https://workspace.google.com/marketplace/app/api_connector/95804724197){:target="_blank"}
 3. Upgrade Premium ($144 Annually) - can be tested 14 days trial for free
-4. Enable API Connector
+4. Refresh sheet
+5. Start API Connector via "Extensions" > "API Connector"
    
 ### Settings
 
